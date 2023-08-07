@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 60%;
+    margin: 4% auto;
+}
+header {
+    text-align: center;
+}
+header input {
+    padding: 1rem 1rem;
+    width: 40%;
+    font-size: 1rem;
+    /* border: none; */
+    background-color: aliceblue;
+}
+header button {
+    padding: 1rem 1rem;
+    width: 15%;
+    font-size: 1rem;
+    background-color:darkslateblue;
+    color: whitesmoke;
+}
